@@ -2,7 +2,7 @@
 * Case Study: Murach College
 * Stevens Ho
 * 
-* Compilation of various functions, triggers, and stored procedures to allow users to access, extract, and manipulate data from
+* Compilation of various functions, triggers, ad hoc queries, and stored procedures to allow users to access, extract, and manipulate data from
 * the database
 ********************************************************/
 
